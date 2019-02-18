@@ -2,25 +2,7 @@ body {
   background: white;
 }
 
-#about {
-  height: 75vh;
-  width: 95vw;
-  padding: 5px;
-  margin: 0 auto;
-}
 
-#about .row {
-  display: flex;
-  justify-content: space-around;
-}
-
-#about .top {
-  height: 15vh;
-}
-
-#about .bottom {
-  height: 60vh;
-}
 
 nav {
 	list-style-type: none;
