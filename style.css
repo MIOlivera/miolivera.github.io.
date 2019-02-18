@@ -25,3 +25,14 @@ body {
 #about .col {
   width: 10vw;
 }
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	margin-top: 80px;
+}
+	
+#nav li {
+	display: inline;
+}
