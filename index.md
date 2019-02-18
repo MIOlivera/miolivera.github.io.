@@ -4,7 +4,6 @@
   
   <!--  Meta  -->
   <meta charset="UTF-8" />
-  <title>Green Data</title>
   
   <!--  Styles  -->
   <link rel="stylesheet" href="styles/index.processed.css">
