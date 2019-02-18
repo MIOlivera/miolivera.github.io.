@@ -2,7 +2,8 @@ body {
   background: white;
 }
 
-
+about.col {
+  width: 10vw;
 
 nav {
 	list-style-type: none;
