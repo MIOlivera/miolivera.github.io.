@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <title>Green Data Analytics</title>
 <head>
   
   <!--  Meta  -->
