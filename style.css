@@ -22,10 +22,7 @@ body {
   height: 60vh;
 }
 
-#about .col {
-  width: 10vw;
-}
-#nav {
+nav {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -33,6 +30,6 @@ body {
 	margin-top: 80px;
 }
 	
-#nav li {
+nav li {
 	display: inline;
 }
