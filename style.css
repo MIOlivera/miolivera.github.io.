@@ -1,10 +1,11 @@
-header {
-     width:100%;
-     background-image:url(greendata.github.io./Header Pic.jpg);
-}
+
 body {
   background: #daffb3;
 }
+
+header {
+     width:100%;
+     background-image:url(greendata.github.io./Header Pic.jpg);
 
 nav {
 	list-style: none;
