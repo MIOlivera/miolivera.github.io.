@@ -3,9 +3,8 @@ body {
 }
 
 header {
-     width:100%;
-     background-image:url('greendata.github.io./Header_Pic.jpg');
-	background-size: 100%, cover;
+	width: 100%;
+     background:url('http://greendata.github.io./Header_Pic.jpg');
 }
 
 nav {
