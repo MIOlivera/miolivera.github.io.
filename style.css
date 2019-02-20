@@ -1,7 +1,6 @@
 header {
-	width: 100%;
-   height: 250px; 
-   background-image:url('http://greendata.github.io./Header_Pic.jpg') repeat-x center top;
+	background: url('http://greendata.github.io./Header_Pic.jpg') no-repeat center center;
+    	background-size: cover;
 }
 
 nav {
