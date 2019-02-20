@@ -1,10 +1,10 @@
 body {
-	background:#e6ffcc;
+	background:"white";
 }
 
 header {
      width:100%;
-     background-image:url('Header_Pic.jpg');
+     background-image:url('greendata.github.io./Header_Pic.jpg');
 	background-size: 100%, cover;
 }
 
