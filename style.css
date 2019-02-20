@@ -4,7 +4,8 @@ body {
 
 header {
 	width: 100%;
-     background:url('http://greendata.github.io./Header_Pic.jpg');
+   height: 250px; 
+   background:url('http:// greendata.github.io./Header_Pic.jpg) repeat-x center top;
 }
 
 nav {
