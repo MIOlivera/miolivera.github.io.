@@ -5,7 +5,8 @@ body {
 
 header {
      width:100%;
-     background-image:url(greendata.github.io./Header Pic.jpg);
+     background:url('greendata.github.io./Header Pic.jpg');
+	background-size: 100%, cover;
 }
 
 nav {
