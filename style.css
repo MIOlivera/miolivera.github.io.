@@ -9,12 +9,9 @@ nav {
   padding: 0;
   display: flex;
   justify-content: space-around;
-	background: black;
+	background-color: #004d00;
 	font-size: 125%
 }
 
-body {
-	background: #e6ffcc;
-}
 
 
