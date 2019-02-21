@@ -1,5 +1,5 @@
 header {
-	background: url('http://greendata.github.io./Header_Pic.jpg') no-repeat center center;
+	background-image: url('Header_Pic.jpg');
     	background-size: cover;
 }
 
