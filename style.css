@@ -13,11 +13,7 @@ nav {
 	font-size: 125%
 }
 
-row top {
-	display:flex;
-}
-
-row bottom {
+row {
 	display:flex;
 }
 
