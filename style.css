@@ -13,5 +13,8 @@ nav {
 	font-size: 125%
 }
 
-
+row {
+	display:flex;
+  	justify-content: space-around;
+}
 
