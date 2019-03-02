@@ -13,8 +13,15 @@ nav {
 	font-size: 125%
 }
 
-row {
+row top {
 	display:flex;
-  	justify-content: space-around;
+}
+
+row bottom {
+	display:flex;
+}
+
+column {
+  flex: 50%;
 }
 
