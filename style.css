@@ -1,5 +1,5 @@
 header {
-	height: 50px
+	min-height: 50%;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
 }
