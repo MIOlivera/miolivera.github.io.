@@ -1,5 +1,5 @@
 header {
-	min-height: 40vh;
+	min-height: 200px;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
 }
