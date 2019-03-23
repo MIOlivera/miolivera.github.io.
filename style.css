@@ -1,4 +1,5 @@
 header {
+	height: 50px
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
 }
