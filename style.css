@@ -2,9 +2,9 @@ header {
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
-	padding: 10px 0;
-	vertical-align: middle;
-	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 h1 { 
