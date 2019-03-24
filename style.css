@@ -1,9 +1,7 @@
 header {
-	position: absolute; 
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
-	display: table-cell; 
  	vertical-align: middle; 
 }
 
