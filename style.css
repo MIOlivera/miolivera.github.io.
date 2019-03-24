@@ -1,9 +1,11 @@
 header {
+	position: absolute; 
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
-	display: flex;
-	align-items: center;
+	display: table-cell; 
+ 	vertical-align: middle; 
+  	text-align: center; 
 }
 
 h1 { 
