@@ -2,6 +2,10 @@ header {
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
+	display: flex;
+ 	justify-content: center;
+  	align-items: center;
+  	text-align: center;
 }
 
 h1 {
@@ -9,7 +13,7 @@ h1 {
 }
 
 h2 {
-	font-size: 20px;
+	font-size: 24px;
 }
 
 nav {
