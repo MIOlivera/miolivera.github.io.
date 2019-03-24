@@ -2,6 +2,7 @@ header {
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
+	vertical-align: middle;
 }
 
 h1 { 
