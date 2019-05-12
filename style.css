@@ -22,6 +22,10 @@ nav {
 	font-size: 125%;
 }
 
+nav a {
+    font-size: 30px;
+}
+
 a {
 	margin: 0px;
 	font-size: 25px
