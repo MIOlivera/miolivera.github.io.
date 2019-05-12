@@ -2,7 +2,12 @@ header {
 	height: 40% !important;
 	background-image: url('Header2_Pic.jpg'); 
    	background-size: cover;
-	vertical-align: middle;
+	display: flex;
+        align-items: center;
+        justify-content: center;        
+	flex-direction: column;
+        width: 100%;
+        text-align: center;
 }
 
 h1 { 
