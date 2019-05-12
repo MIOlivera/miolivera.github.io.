@@ -17,6 +17,10 @@ h1 {
 h2 {
 	font-size: 40px
 }
+
+body {
+	background-color: #f3ffe6;
+}
 	
 nav {
   margin: 0px;
